@@ -9,6 +9,7 @@ const fuchsia = "#e11c79";
 const pop = "#f8b572";
 const white = "#ffffff";
 const red = "#ff0000";
+const black = "#000000";
 
 const config: Config[] = [
   {
@@ -29,6 +30,13 @@ const config: Config[] = [
     themeName: "Fuchsia-Red",
     color: {
       base: red,
+      outline: white,
+    },
+  },
+  {
+    themeName: "Fuchsia-Black"
+    color: {
+      base: black,
       outline: white,
     },
   },

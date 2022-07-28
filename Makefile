@@ -53,7 +53,7 @@ reinstall: uninstall install
 
 # generates binaries
 BIN_DIR = ../bin
-THEMES = Pop! Red
+THEMES = Pop! Red Black
 prepare: bitmaps themes
 	@rm -rf bin
 	@mkdir -p bin/$(THEME_PREFIX)
