@@ -33,12 +33,12 @@ class BitmapsGenerator {
    */
   public async getBrowser(): Promise<Browser> {
     return await puppeteer.launch({
-      ignoreDefaultArgs: ["--no-sandbox"],
+      args: ["--no-sandbox"],
       headless: true,
     });
   }
 
-  private async getSvgElement(
+  public async getSvgElement(
     page: Page,
     content: string
   ): Promise<ElementHandle<Element>> {

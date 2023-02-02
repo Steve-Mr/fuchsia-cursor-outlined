@@ -34,7 +34,7 @@ const colorSvg = (
     // === trying to replace `watch` color ===
 
     if (!colors.watch?.background) {
-      throw new Error("");
+      throw new Error("error occured");
     }
     const { background: b } = colors.watch;
     content = content.replace(new RegExp(keys.watch!.background, "ig"), b); // Watch Background
