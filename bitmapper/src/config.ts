@@ -34,7 +34,7 @@ const config: Config[] = [
     },
   },
   {
-    themeName: "Fuchsia-Black"
+    themeName: "Fuchsia-Black",
     color: {
       base: black,
       outline: white,
