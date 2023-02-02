@@ -13,7 +13,7 @@ WIN_CANVAS_SIZE ?= 32
 WIN_SIZE ?= 24
 
 setup:
-	@python3 -m pip install clickgen --user
+	@python3 -m pip install clickgen==1.2.0 --user
 
 build: setup build.py
 	@python3 build.py -p "$(bitmaps_dir)/Fuchsia" --xsizes $(X_SIZES) --win-size $(WIN_SIZE) --win-canvas-size $(WIN_CANVAS_SIZE)
