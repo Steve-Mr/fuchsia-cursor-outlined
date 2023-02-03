@@ -40,6 +40,20 @@ const config: Config[] = [
       outline: white,
     },
   },
+  {
+    themeName: "Fuchsia-Alt",
+    color: {
+      base: white,
+      outline: fuchsia,
+    },
+  },
+  {
+    themeName: "Fuchsia-Black-Alt",
+    color: {
+      base: white,
+      outline: black,
+    },
+  },
 ];
 
 export { config };
