@@ -1,12 +1,12 @@
 <svg width="200" height="200" viewBox="0 0 200 200" fill="none" xmlns="http://www.w3.org/2000/svg">
 <g clip-path="url(#clip0_5_438)">
 <g filter="url(#filter0_d_5_438)">
-<path d="M29.5002 115.5C23.9774 115.5 19.5002 111.023 19.5002 105.5V94.5001C19.5002 88.9772 23.9774 84.5001 29.5002 84.5001H171.5C177.023 84.5001 181.5 88.9772 181.5 94.5001V105.5C181.5 111.023 177.023 115.5 171.5 115.5H29.5002Z" fill="#00FF00"/>
-<path d="M12.5002 94.5001V105.5C12.5002 114.889 20.1114 122.5 29.5002 122.5H171.5C180.889 122.5 188.5 114.889 188.5 105.5V94.5001C188.5 85.1112 180.889 77.5001 171.5 77.5001H29.5002C20.1114 77.5001 12.5002 85.1112 12.5002 94.5001Z" stroke="#0000FF" stroke-width="14"/>
+<path d="M23.3642 122.5C17.3641 122.5 12.5 116.001 12.5 107.984V92.0161C12.5 83.9991 17.3641 77.5 23.3642 77.5H177.636C183.636 77.5 188.5 83.9991 188.5 92.0161V107.984C188.5 116.001 183.636 122.5 177.636 122.5H23.3642Z" fill="#00FF00"/>
+<path d="M23.3642 122.5C17.3641 122.5 12.5 116.001 12.5 107.984V92.0161C12.5 83.9991 17.3641 77.5 23.3642 77.5H177.636C183.636 77.5 188.5 83.9991 188.5 92.0161V107.984C188.5 116.001 183.636 122.5 177.636 122.5H23.3642Z" stroke="#0000FF" stroke-width="14"/>
 </g>
 </g>
 <defs>
-<filter id="filter0_d_5_438" x="-0.499756" y="68.5001" width="202" height="71" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<filter id="filter0_d_5_438" x="-0.5" y="68.5" width="202" height="71" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
 <feFlood flood-opacity="0" result="BackgroundImageFix"/>
 <feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
 <feOffset dy="4"/>

@@ -127,7 +127,7 @@ class BitmapsGenerator {
     // Rendering frames till `imgN` matched to `imgN-1` (When Animation is done)
     while (!breakRendering) {
       if (index > opt.frameLimit) {
-        throw new Error("Reached the frame limit.");
+        breakRendering = true;
       }
 
       await this.resumeAnimation(page, opt.playbackRate);

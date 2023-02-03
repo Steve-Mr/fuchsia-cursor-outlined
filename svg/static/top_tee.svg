@@ -1,10 +1,14 @@
 <svg width="200" height="200" viewBox="0 0 200 200" fill="none" xmlns="http://www.w3.org/2000/svg">
 <g filter="url(#filter0_d_5_17)">
+<mask id="path-1-outside-1_5_17" maskUnits="userSpaceOnUse" x="25" y="24" width="151" height="151" fill="black">
+<rect fill="white" x="25" y="24" width="151" height="151"/>
+<path d="M92 146V71C92 65.4772 87.5228 61 82 61H54C49.5817 61 46 57.4183 46 53C46 48.5817 49.5817 45 54 45H100.5H147C151.418 45 155 48.5817 155 53C155 57.4183 151.418 61 147 61H118C112.477 61 108 65.4772 108 71V146C108 150.418 104.418 154 100 154C95.5817 154 92 150.418 92 146Z"/>
+</mask>
 <path d="M92 146V71C92 65.4772 87.5228 61 82 61H54C49.5817 61 46 57.4183 46 53C46 48.5817 49.5817 45 54 45H100.5H147C151.418 45 155 48.5817 155 53C155 57.4183 151.418 61 147 61H118C112.477 61 108 65.4772 108 71V146C108 150.418 104.418 154 100 154C95.5817 154 92 150.418 92 146Z" fill="#00FF00"/>
-<path d="M85 71V146C85 154.284 91.7157 161 100 161C108.284 161 115 154.284 115 146V71C115 69.3431 116.343 68 118 68H147C155.284 68 162 61.2843 162 53C162 44.7157 155.284 38 147 38H100.5H54C45.7157 38 39 44.7157 39 53C39 61.2843 45.7157 68 54 68H82C83.6569 68 85 69.3431 85 71Z" stroke="#0000FF" stroke-width="14"/>
+<path d="M92 146V71C92 65.4772 87.5228 61 82 61H54C49.5817 61 46 57.4183 46 53C46 48.5817 49.5817 45 54 45H100.5H147C151.418 45 155 48.5817 155 53C155 57.4183 151.418 61 147 61H118C112.477 61 108 65.4772 108 71V146C108 150.418 104.418 154 100 154C95.5817 154 92 150.418 92 146Z" stroke="#0000FF" stroke-width="42" mask="url(#path-1-outside-1_5_17)"/>
 </g>
 <defs>
-<filter id="filter0_d_5_17" x="26" y="29" width="149" height="149" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<filter id="filter0_d_5_17" x="19" y="22" width="163" height="163" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
 <feFlood flood-opacity="0" result="BackgroundImageFix"/>
 <feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
 <feOffset dy="4"/>
