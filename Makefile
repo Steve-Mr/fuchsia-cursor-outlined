@@ -1,15 +1,15 @@
-all: clean render 
+all: clean render build
 
-unix: clean bitmaps
+unix: clean render bitmaps
 	@cd builder && make build_unix
 
-windows: clean bitmaps
+windows: clean render bitmaps
 	@cd builder && make build_windows
 
 .PHONY: all
 
 clean:
-	@rm -rf themes
+	@rm -rf bitmaps themes
 	
 render: bitmapper svg
 	@cd bitmapper && $(MAKE)
